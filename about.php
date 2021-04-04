@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<!-- Mirrored from azim.commonsupport.com/Finandox/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Apr 2021 15:13:19 GMT -->
-<head>
-<meta charset="utf-8">
-<title>Finandox - Business HTML Template</title>
-<!-- Stylesheets -->
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<!-- Responsive File -->
-<link href="assets/css/responsive.css" rel="stylesheet">
-<!-- Color File -->
-<link href="assets/css/color.css" rel="stylesheet">
-
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&amp;display=swap" rel="stylesheet">
-
-<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
-
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
+<?php include 'csslink.php';?>
 
 <body>
 
@@ -38,7 +13,7 @@
         <div class="popup-inner">
             <div class="overlay-layer"></div>
             <div class="search-form">
-                <form method="post" action="http://azim.commonsupport.com/Finandox/index.html">
+                <form method="post" action="http://azim.commonsupport.com/Finandox/index.php">
                     <div class="form-group">
                         <fieldset>
                             <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
@@ -68,7 +43,7 @@
         <div class="auto-container">
             <h1>About Us</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="active">About Us</li>
             </ul>
         </div>
@@ -353,140 +328,9 @@
     </section>
 
 	<!-- Main Footer -->
-    <footer class="main-footer">
-    	<div class="auto-container">
-        	<!--Widgets Section-->
-            <div class="widgets-section">
-            	<div class="row clearfix">
-                	
-                    <!--Column-->
-                    <div class="column col-lg-4">
-						<div class="footer-widget logo-widget">
-                        	<div class="widget-content">
-                                <div class="footer-logo">
-                                    <a href="index.html"><img class="lazy-image" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/footer-logo.png" alt="" /></a>
-                                </div>
-                                <div class="text">Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</div>
-                                <ul class="social-links clearfix">
-                                    <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-vimeo-v"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                                </ul>
-                            </div>
-						</div>
-					</div>
-					
-					<!--Column-->
-                    <div class="column col-lg-4">
-						<div class="footer-widget links-widget">
-							<div class="widget-content">
-								<h3>Links</h3>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul>
-                                            <li><a href="#">Home</a></li>
-                                            <li><a href="#">About</a></li>
-                                            <li><a href="#">Services</a></li>
-                                            <li><a href="#">Portfolio</a></li>
-                                            <li><a href="#">Pricing</a></li>
-                                            <li><a href="#">Contact</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul>
-                                            <li><a href="#">News</a></li>
-                                            <li><a href="#">Press Release</a></li>
-                                            <li><a href="#">Case Study</a></li>
-                                            <li><a href="#">Terms</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-							</div>	
-						</div>
-					</div>
-					
-					<!--Column-->
-                    <div class="column col-lg-4">
-						<div class="footer-widget instagram-widget">
-                            <h3>Photo Showcase</h3>
-							<div class="inner-box">
-                                <div class="wrapper-box">
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-1.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-1.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-2.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-2.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-3.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-3.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-4.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-4.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-5.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-5.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-6.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-6.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-7.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-7.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-8.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-8.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                    <div class="image">
-                                        <img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/gallery/gallery-9.jpg" alt="">
-                                        <div class="overlay-link"><a href="assets/images/gallery/gallery-9.jpg" class="lightbox-image" data-fancybox="gallery"><span class="fa fa-plus"></span></a></div>
-                                    </div>
-                                </div><!-- /.gallery-wrapper -->
-                            </div>	
-						</div>
-					</div>
-					
-				</div>
-                
-			</div>
-		</div>
-		
-		<!-- Footer Bottom -->
-		<div class="auto-container">				
-            <div class="footer-bottom">
-            	<div class="copyright">Copyright By<a href="#">Template_path</a> - 2020</div>
-			</div>
-		</div>
-	</footer>
-	
-</div>
-<!--End pagewrapper-->
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fal fa-arrow-circle-up"></span></div>
-
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/bootstrap-select.min.js"></script>
-<script src="assets/js/jquery.fancybox.js"></script>
-<script src="assets/js/isotope.js"></script>
-<script src="assets/js/owl.js"></script>
-<script src="assets/js/appear.js"></script>
-<script src="assets/js/wow.js"></script>
-<script src="assets/js/lazyload.js"></script>
-<script src="assets/js/scrollbar.js"></script>
-<script src="assets/js/TweenMax.min.js"></script>
-<script src="assets/js/script.js"></script>
+    <?php include 'footer.php';?>
 
 </body>
 
-<!-- Mirrored from azim.commonsupport.com/Finandox/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Apr 2021 15:13:20 GMT -->
-</html>
+<!-- Mirrored from azim.commonsupport.com/Finandox/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Apr 2021 15:13:20 GMT -->
+</php>
