@@ -2793,7 +2793,7 @@ img {
 .main-footer {
 	position: relative;
 	color: #c4c5c7;
-	background-color: #282828;
+	background-color: #014D5D;
 }
 
 .main-footer .widgets-section {
@@ -5584,11 +5584,23 @@ img.lazy-image.loaded {
 	z-index: 9;
 }
 
-.service-block-one {
+.service-block-five {
 	position: relative;
 }
 
-.service-block-one .inner-box {
+.service-block-two {
+	position: relative;
+}
+
+.service-block-three {
+	position: relative;
+}
+
+.service-block-four {
+	position: relative;
+}
+
+.service-block-five .inner-box {
 	position: relative;
 	background: #fff;
 	text-align: center;
@@ -5599,12 +5611,60 @@ img.lazy-image.loaded {
 	margin-bottom: 30px;
 }
 
-.service-block-one .inner-box:hover {
+.service-block-two .inner-box {
+	position: relative;
+	background: #fff;
+	text-align: center;
+	padding: 60px 30px;
+	-webkit-transition: .5s ease;
+	-o-transition: .5s ease;
+	transition: .5s ease;
+	margin-bottom: 30px;
+}
+
+.service-block-three .inner-box {
+	position: relative;
+	background: #fff;
+	text-align: center;
+	padding: 60px 30px;
+	-webkit-transition: .5s ease;
+	-o-transition: .5s ease;
+	transition: .5s ease;
+	margin-bottom: 30px;
+}
+
+.service-block-four .inner-box {
+	position: relative;
+	background: #fff;
+	text-align: center;
+	padding: 60px 30px;
+	-webkit-transition: .5s ease;
+	-o-transition: .5s ease;
+	transition: .5s ease;
+	margin-bottom: 30px;
+}
+
+.service-block-five .inner-box:hover {
 	-webkit-box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
 	box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
 }
 
-.service-block-one .icon {
+.service-block-two .inner-box:hover {
+	-webkit-box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+	box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+}
+
+.service-block-three .inner-box:hover {
+	-webkit-box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+	box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+}
+
+.service-block-four .inner-box:hover {
+	-webkit-box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+	box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
+}
+
+.service-block-five .icon {
 	position: relative;
 	font-size: 60px;
 	width: 125px;
@@ -5619,7 +5679,52 @@ img.lazy-image.loaded {
 	transition: .5s;
 }
 
-.service-block-one .icon .round-shape {
+.service-block-two .icon {
+	position: relative;
+	font-size: 60px;
+	width: 125px;
+	height: 125px;
+	margin: 0 auto;
+	border: 2px solid #efffe8;
+	border-radius: 50%;
+	line-height: 125px;
+	margin-bottom: 30px;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
+	transition: .5s;
+}
+
+.service-block-three .icon {
+	position: relative;
+	font-size: 60px;
+	width: 125px;
+	height: 125px;
+	margin: 0 auto;
+	border: 2px solid #efffe8;
+	border-radius: 50%;
+	line-height: 125px;
+	margin-bottom: 30px;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
+	transition: .5s;
+}
+
+.service-block-four .icon {
+	position: relative;
+	font-size: 60px;
+	width: 125px;
+	height: 125px;
+	margin: 0 auto;
+	border: 2px solid #efffe8;
+	border-radius: 50%;
+	line-height: 125px;
+	margin-bottom: 30px;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
+	transition: .5s;
+}
+
+.service-block-five .icon .round-shape {
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -5627,7 +5732,31 @@ img.lazy-image.loaded {
 	height: 100%;
 }
 
-.service-block-one .icon .round-shape:before {
+.service-block-two .icon .round-shape {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.service-block-three .icon .round-shape {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.service-block-four .icon .round-shape {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.service-block-five .icon .round-shape:before {
 	position: absolute;
 	content: '';
 	height: 18px;
@@ -5637,7 +5766,37 @@ img.lazy-image.loaded {
 	right: 8px;
 }
 
-.service-block-one .icon .round-shape:after {
+.service-block-two .icon .round-shape:before {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	top: 8px;
+	right: 8px;
+}
+
+.service-block-three .icon .round-shape:before {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	top: 8px;
+	right: 8px;
+}
+
+.service-block-four .icon .round-shape:before {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	top: 8px;
+	right: 8px;
+}
+
+.service-block-five .icon .round-shape:after {
 	position: absolute;
 	content: '';
 	height: 18px;
@@ -5647,15 +5806,83 @@ img.lazy-image.loaded {
 	left: 8px;
 }
 
-.service-block-one h3 {
-	font-size: 24px;
-	font-weight: 700;
-	margin-bottom: 20px;
+.service-block-two .icon .round-shape:after {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	bottom: 8px;
+	left: 8px;
+}
+
+.service-block-three .icon .round-shape:after {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	bottom: 8px;
+	left: 8px;
+}
+
+.service-block-four .icon .round-shape:after {
+	position: absolute;
+	content: '';
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	bottom: 8px;
+	left: 8px;
+}
+
+.service-block-five h3 {
+	font-size: 16px;
+	font-weight: 1000;
+	margin-bottom: 5px;
+}
+
+.service-block-two h3 {
+	font-size: 16px;
+	font-weight: 1000;
+	margin-bottom: 5px;
+}
+
+.service-block-three h3 {
+	font-size: 16px;
+	font-weight: 1000;
+	margin-bottom: 5px;
+}
+
+.service-block-four h3 {
+	font-size: 16px;
+	font-weight: 1000;
+	margin-bottom: 5px;
+}
+
+.service-block-five div {
+	font-size: 19px;
+	font-weight: 500;
+}
+
+.service-block-two div {
+	font-size: 19px;
+	font-weight: 500;
+}
+
+.service-block-three div {
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.service-block-four div {
+	font-size: 17px;
+	font-weight: 500;
 }
 
 /* Style Two */
 
-.services-section-three.style-two .service-block-one .icon {
+.services-section-three.style-two .service-block-five .icon {
 	border-color: #e5e5e5;
 }
 
@@ -5664,7 +5891,7 @@ img.lazy-image.loaded {
 	padding: 100px 0 90px;
 }
 
-.services-section-three.style-two .service-block-one .inner-box {
+.services-section-three.style-two .service-block-five .inner-box {
 	-webkit-box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
 	box-shadow: 0px 8px 16px 0px rgba(40, 40, 40, 0.1);
 }

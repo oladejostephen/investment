@@ -31,51 +31,31 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class="dropdown"><a href="index.php">Home</a>
-                                            
-                                        </li>
+                                        <li><a href="index.php">Home</a></li>
+
                                         <li><a href="about.php">About Us</a></li>
-                                        <li class="dropdown"><a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services-1.php">Services One</a></li>
-                                                <li><a href="services-2.php">Services Two</a></li>
-                                                <li><a href="services-details.php">Services Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Portfolio</a>
-                                            <ul>
-                                                <li><a href="portfolio-1.php">Portfolio One</a></li>
-                                                <li><a href="portfolio-2.php">Portfolio Two</a></li>
-                                                <li><a href="portfolio-details.php">Portfolio Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">News</a>
+                                        
+                                        
+                                        <li class="dropdown"><a href="#">Invest</a>
                                             <ul>
                                                 <li><a href="blog-grid.php">Blog Grid</a></li>
                                                 <li><a href="blog-standard.php">Blog Standard</a></li>
                                                 <li><a href="blog-details.php">Blog Details</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="careers.php">Careers</a></li>
-                                                <li><a href="team.php">Team</a></li>
-                                                <li><a href="team-details.php">Team Details</a></li>
-
-                                                <li class="dropdown"><a href="shop.php">Shop</a>
-                                                    <ul>
-                                                        <li><a href="shop.php">Products</a></li>
-                                                        <li><a href="product-details.php">Product Details</a></li>
-                                                        <li><a href="shopping-cart.php">Shopping Cart</a></li>
-                                                        <li><a href="checkout.php">Checkout</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="faq.php">Faq's</a></li>
-                                                <li><a href="404.php">404</a></li>
-                                            </ul>
+                                        <li><a href="faq.php">FAQ</a>
+                                            
                                         </li>
 
                                         <li><a href="contact.php">Contact</a></li>
+                                        <li class="dropdown"><a href="#">Account</a>
+                                                    <ul>
+                                                        <li><a href="shop.php">Sign Up</a></li>
+                                                        <li><a href="product-details.php">Sign In</a></li>
+                                                        
+                                                    </ul>
+                                        </li>
+
                                     </ul>
                                 </div>
                             </nav>

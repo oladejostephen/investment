@@ -211,7 +211,91 @@
       }
 }
 
-.service-block-one .inner-box .icon .round-shape,
+.service-block-five .inner-box .icon .round-shape,
+.rotate-me {
+    animation-name: rotateme; 
+    animation-duration: 15s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+	
+	-webkit-animation-name: rotateme; 
+    -webkit-animation-duration: 15s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: rotateme; 
+    -moz-animation-duration: 15s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+	
+	-ms-animation-name: rotateme; 
+    -ms-animation-duration: 15s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+	
+	-o-animation-name: rotateme; 
+    -o-animation-duration: 15s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+.service-block-two .inner-box .icon .round-shape,
+.rotate-me {
+    animation-name: rotateme; 
+    animation-duration: 15s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+	
+	-webkit-animation-name: rotateme; 
+    -webkit-animation-duration: 15s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: rotateme; 
+    -moz-animation-duration: 15s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+	
+	-ms-animation-name: rotateme; 
+    -ms-animation-duration: 15s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+	
+	-o-animation-name: rotateme; 
+    -o-animation-duration: 15s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+.service-block-three .inner-box .icon .round-shape,
+.rotate-me {
+    animation-name: rotateme; 
+    animation-duration: 15s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+	
+	-webkit-animation-name: rotateme; 
+    -webkit-animation-duration: 15s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: rotateme; 
+    -moz-animation-duration: 15s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+	
+	-ms-animation-name: rotateme; 
+    -ms-animation-duration: 15s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+	
+	-o-animation-name: rotateme; 
+    -o-animation-duration: 15s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+.service-block-four .inner-box .icon .round-shape,
 .rotate-me {
     animation-name: rotateme; 
     animation-duration: 15s; 

@@ -50,7 +50,7 @@
 .error-section .inner-section .text,
 .banner-carousel .slide-item:before,
 .testimonial-block-two .quote,
-.service-block-one .icon,
+.service-block-five .icon,
 .author-info .designation,
 .cta-section .wrapper-box:before,
 .testimonial-section-two .owl-theme .owl-nav .owl-next:hover:before,
@@ -72,7 +72,7 @@
 .bootstrap-select .dropdown-menu li a.active,
 .main-header.header-style-two .header-upper .logo-box .logo,
 .shop-sidebar-wrapper .price-ranger .ranger-min-max-block input[type="submit"],
-.service-block-one .icon .round-shape:before,
+.service-block-five .icon .round-shape:before,
 .testimonial-section.style-two:before,
 .case-block-one .overlay,
 .error-search-form .form-group button,
@@ -111,7 +111,7 @@
 .testimonial-section .owl-theme .owl-nav .owl-prev:hover:before,
 .tab-btn-style-one .nav-item .nav-link:before,
 .tab-btn-style-one .nav-item .nav-link.active,
-.service-block-one .icon .round-shape:after,
+.service-block-five .icon .round-shape:after,
 .sticky-header .main-menu .navigation > li.current-menu-item > a {
 	background-image: -moz-linear-gradient( 0deg, rgb(209,100,26) 0%, rgb(192,40,42) 100%);
 	background-image: -webkit-linear-gradient( 0deg, rgb(209,100,26) 0%, rgb(192,40,42) 100%);

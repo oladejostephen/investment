@@ -83,26 +83,26 @@
             <div class="banner-carousel theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
                 <!-- Slide Item -->
                 <div class="slide-item">
-                    <div class="image-layer lazy-image" data-bg="url('assets/images/main-slider/3.jpg')"></div>
+                    <div class="image-layer lazy-image" data-bg="url('assets/images/main-slider/1.jpg')"></div>
 
                     <div class="auto-container">
                         <div class="content-box">
                             <h3>Making Your Business Idea</h3>
                             <h2>We Take Care Of <br>The Future</h2>
-                            <div class="btn-box"><a href="#" class="theme-btn btn-style-one"><span class="btn-title"> Our Services </span></a><a href="#" class="theme-btn btn-style-two"><span class="btn-title"> Learn More </span></a></div>
+                            <div class="btn-box"><a href="#" class="theme-btn btn-style-two"><span class="btn-title"> Learn More </span></a></div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Slide Item -->
                 <div class="slide-item">
-                    <div class="image-layer lazy-image" data-bg="url('assets/images/main-slider/7.jpg')"></div>
+                    <div class="image-layer lazy-image" data-bg="url('assets/images/main-slider/8.jpg')"></div>
 
                     <div class="auto-container">
                         <div class="content-box">
                             <h3>Making Your Business Idea</h3>
                             <h2>We Take Care Of <br>The Future</h2>
-                            <div class="btn-box"><a href="#" class="theme-btn btn-style-one"><span class="btn-title">Our Services</span></a><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Learn More </span></a></div>
+                            <div class="btn-box"></a><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Learn More </span></a></div>
                         </div>
                     </div>
                 </div>
@@ -218,32 +218,76 @@
         <section class="services-section-three">
             <div class="auto-container">
                 <div class="sec-title text-center">
-                    <div class="sub-title">Services</div>
-                    <h2>What We Do</h2>
+                    <div class="sub-title">Packages</div>
+                    <h2>Our Packages</h2>
                 </div>
                 <div class="row">
-                    <!-- Services Block One -->
-                    <div class="service-block-one col-lg-4">
+                    <!-- Services Bronze -->
+                    <div class="service-block-five col-lg-3">
                         <div class="inner-box">
-                            <div class="icon"><span class="flaticon-assets"></span><span class="round-shape"></span></div>
-                            <h3>Business/Family Loan</h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</div>
+                            <div style="color:red;"  class="icon"><span class="flaticon-money" ></span><span class="round-shape"></span></div>
+                            <h3>Investment Capital</h3>
+                            <div class="text">#200,000  - #1,000,000</div>
+                            <hr>
+                            <h3>Returns On Investment</h3>
+                            <div class="text">20%</div>
+                            <hr>
+                            <h3>Duration</h3>
+                            <div class="text">10 Months</div>
+                            <hr>
+                            <h3>Total</h3>
+                            <div class="text">200%</div>
+                        </div>
+                    </div>  
+                    <!-- Services Silver -->
+                    <div class="service-block-two col-lg-3">
+                    <div class="inner-box">
+                            <div style="color:#3BB5C4;" class="icon"><span class="flaticon-money"></span> <span class="round-shape"></span></div>
+                            <h3>Investment Capital</h3>
+                            <div class="text">2 MILLION  - 5 MILLIOM</div>
+                            <hr>
+                            <h3>Returns On Investment</h3>
+                            <div class="text">25%</div>
+                            <hr>
+                            <h3>Duration</h3>
+                            <div class="text">6 Months</div>
+                            <hr>
+                            <h3>Total</h3>
+                            <div class="text">150%</div>
                         </div>
                     </div>
-                    <!-- Services Block One -->
-                    <div class="service-block-one col-lg-4">
-                        <div class="inner-box">
-                            <div class="icon"><span class="flaticon-life-insurance"></span><span class="round-shape"></span></div>
-                            <h3>Life/Car Insurance</h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</div>
+                    <!-- Services Gold -->
+                    <div class="service-block-three col-lg-3">
+                    <div class="inner-box">
+                            <div style="color:#3BB5C4;" class="icon"><span class="flaticon-money"></span><span class="round-shape"></span></div>
+                            <h3>Investment Capital</h3>
+                            <div class="text">6 MILLION  - 10 MILLIOM</div>
+                            <hr>
+                            <h3>Returns On Investment</h3>
+                            <div class="text">26%</div>
+                            <hr>
+                            <h3>Duration</h3>
+                            <div class="text">6 Months</div>
+                            <hr>
+                            <h3>Total</h3>
+                            <div class="text">156%</div>
                         </div>
                     </div>
-                    <!-- Services Block One -->
-                    <div class="service-block-one col-lg-4">
-                        <div class="inner-box">
-                            <div class="icon"><span class="flaticon-consulting"></span><span class="round-shape"></span></div>
-                            <h3>Business Consultancy</h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</div>
+                    <!-- Services Diamond -->
+                    <div class="service-block-four col-lg-3">
+                    <div class="inner-box">
+                            <div style="color:#3BB5C4;" class="icon"><span class="flaticon-money"></span><span class="round-shape"></span></div>
+                            <h3>Investment Capital</h3>
+                            <div class="text">11 MILLION  - 20 MILLIOM</div>
+                            <hr>
+                            <h3>Returns On Investment</h3>
+                            <div class="text">27%</div>
+                            <hr>
+                            <h3>Duration</h3>
+                            <div class="text">6 Months</div>
+                            <hr>
+                            <h3>Total</h3>
+                            <div class="text">162%</div>
                         </div>
                     </div>
                 </div>
@@ -251,673 +295,21 @@
         </section>
 
         <!-- Insurance Calculate -->
-        <section class="insurance-calculate">
-            <div class="big-title">Insurance</div>
-            <div class="auto-container">
-                <div class="wrapper-box">
-                    <div class="shape" style="background-image: url(assets/images/shape/shape-6.png);"></div>
-                    <h1>Life Insurance Quote</h1>
-                    <div class="price">
-                        <span>$10000</span>
-                        <span>$20000</span>
-                        <span>$30000</span>
-                        <span>$40000</span>
-                        <span>$50000</span>
-                    </div>
-                    <div class="progress-box">
-                        <div class="bar">
-                            <div class="bar-inner count-bar" data-percent="64%">
-                                <div class="count-text"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="column">
-                            <h5>Profit</h5>
-                            <h2>$35,000</h2>
-                        </div>
-                        <div class="column">
-                            <h5>Duration</h5>
-                            <h2>05 Mo.</h2>
-                        </div>
-                        <div class="column">
-                            <h5>Monthly</h5>
-                            <h2>$7,080</h2>
-                        </div>
-                        <div class="column">
-                            <a href="#" class="theme-btn btn-style-two"><span class="btn-title">Get A Quote</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <!-- Case Studies -->
-        <section class="cases-section">
-
-            <!--case Tabs-->
-            <div class="case-tabs">
-                <div class="auto-container">
-                    <div class="sec-title text-center">
-                        <div class="sub-title">Case Study</div>
-                        <h2>Much Work Done</h2>
-                    </div>
-                    <!--Tabs Header-->
-                    <div class="tabs-header">
-                        <ul class="case-tab-btns flex-box">
-                            <li class="case-tab-btn active-btn" data-tab="#case-tab-1"><span>Financial</span></li>
-                            <li class="case-tab-btn" data-tab="#case-tab-2"><span>Banking</span></li>
-                            <li class="case-tab-btn" data-tab="#case-tab-3"><span>Insurance</span></li>
-                            <li class="case-tab-btn" data-tab="#case-tab-4"><span>Family</span></li>
-                            <li class="case-tab-btn" data-tab="#case-tab-5"><span>Business</span></li>
-                        </ul>
-                    </div>
-                    <div class="case-tab-wrapper">
-                        <!--Tabs Content-->
-                        <div class="case-tabs-content">
-                            <!--case Tab / Active Tab-->
-                            <div class="case-tab active-tab" id="case-tab-1">
-                                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--case Tab-->
-                            <div class="case-tab" id="case-tab-2">
-                                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--case Tab-->
-                            <div class="case-tab" id="case-tab-3">
-                                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--case Tab-->
-                            <div class="case-tab" id="case-tab-4">
-                                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--case Tab-->
-                            <div class="case-tab" id="case-tab-5">
-                                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-24.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-25.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- case Blokc One -->
-                                    <div class="case-block-one">
-                                        <div class="inner-box">
-                                            <div class="image"><img src="assets/images/gallery/gallery-26.jpg" alt=""></div>
-                                            <div class="overlay">
-                                                <div>
-                                                    <h5>Business Consultancy</h5>
-                                                    <h2>Brixer Donald Company Business</h2>
-                                                    <div class="link-btn flex-box">
-                                                        <a href="assets/images/gallery/gallery-24.jpg" data-fancybox="gallery-1" data-caption="" class="theme-btn"><i>+</i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </section>
+        
 
         <!-- Testimonial Section -->
-        <section class="testimonial-section style-two" style="background-image: url(assets/images/background/image-9.jpg);">
-            <div class="auto-container">
-                <div class="sec-title light">
-                    <div class="sub-title">Testimonials</div>
-                    <h2>Clients Feedback</h2>
-                </div>
-                <div class="row">
-                    <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "2" } , "1000":{ "items" : "3" }}}'>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-1.jpg" alt=""></div>
-                                    <h4>Alexer Valvin</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-2.jpg" alt=""></div>
-                                    <h4>Hilix Darwin Kalia</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-3.jpg" alt=""></div>
-                                    <h4>Kilbar D. Baldos</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-1.jpg" alt=""></div>
-                                    <h4>Alexer Valvin</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-2.jpg" alt=""></div>
-                                    <h4>Hilix Darwin Kalia</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item">
-                            <!-- Testimonial-block -->
-                            <div class="testimonial-block">
-                                <div class="inner-box">
-                                    <div class="icon"><span class="fal fa-star"></span></div>
-                                    <div class="quote"><span class="fal fa-quote-left"></span></div>
-                                    <h4>Design Quality</h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </div>
-                                </div>
-                                <div class="author-info">
-                                    <div class="thumb"><img src="assets/images/resource/thumb-3.jpg" alt=""></div>
-                                    <h4>Kilbar D. Baldos</h4>
-                                    <div class="designation">Founder, Coxer IT</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <!-- Map Section -->
-        <section class="map-section">
+        <!-- <section class="map-section">
             <div class="map-column">
                 <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="assets/images/icons/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Contact Section Two -->
         <section class="contact-section-two">

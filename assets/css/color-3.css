@@ -50,7 +50,7 @@
 .error-section .inner-section .text,
 .banner-carousel .slide-item:before,
 .testimonial-block-two .quote,
-.service-block-one .icon,
+.service-block-five .icon,
 .author-info .designation,
 .cta-section .wrapper-box:before,
 .testimonial-section-two .owl-theme .owl-nav .owl-next:hover:before,
@@ -72,7 +72,10 @@
 .bootstrap-select .dropdown-menu li a.active,
 .main-header.header-style-two .header-upper .logo-box .logo,
 .shop-sidebar-wrapper .price-ranger .ranger-min-max-block input[type="submit"],
-.service-block-one .icon .round-shape:before,
+.service-block-five .icon .round-shape:before,
+.service-block-two .icon .round-shape:before,
+.service-block-three .icon .round-shape:before,
+.service-block-four .icon .round-shape:before,
 .testimonial-section.style-two:before,
 .case-block-one .overlay,
 .error-search-form .form-group button,
@@ -111,13 +114,16 @@
 .testimonial-section .owl-theme .owl-nav .owl-prev:hover:before,
 .tab-btn-style-one .nav-item .nav-link:before,
 .tab-btn-style-one .nav-item .nav-link.active,
-.service-block-one .icon .round-shape:after,
+.service-block-five .icon .round-shape:after,
+.service-block-two .icon .round-shape:after,
+.service-block-three .icon .round-shape:after,
+.service-block-four .icon .round-shape:after,
 .sticky-header .main-menu .navigation > li.current-menu-item > a {
 	background-color: #3BB5C4;
 }
 
 .btn-style-one .btn-title:before {
-    background-color: red;
+    background-color: #014D5D;
 }
 
 .default-video-box a:hover,
@@ -146,7 +152,7 @@
 .testimonial-section.style-two .owl-theme .owl-nav .owl-next:hover:before,
 .welcome-block-one:nth-child(1) .inner-box .read-more a:hover,
 .welcome-block-one:nth-child(3) .inner-box .read-more a:hover {
-	color: #64a547;
+	color: #3BB5C4;
 }
 
 .welcome-block-one:nth-child(2) .inner-box .read-more a:hover {
@@ -155,8 +161,8 @@
 
 .contact-form i,
 .author-info .designation,
-.service-block-one .icon,
-.feature-block-one .icon,
+.service-block-five .icon,
+.feature-block-five .icon,
 .progress-box .count-text,
 .services-section-five .icon,
 .contact-section .icon-box .icon,
