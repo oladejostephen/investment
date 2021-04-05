@@ -89,7 +89,7 @@
                         <div class="content-box">
                             <h3>Making Your Business Idea</h3>
                             <h2>We Take Care Of <br>The Future</h2>
-                            <div class="btn-box"><a href="#" class="theme-btn btn-style-two"><span class="btn-title"> Learn More </span></a></div>
+                            <div class="btn-box"><a href="invest.php" class="theme-btn btn-style-two"><span class="btn-title"> GET STARTED </span></a></div>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         <div class="content-box">
                             <h3>Making Your Business Idea</h3>
                             <h2>We Take Care Of <br>The Future</h2>
-                            <div class="btn-box"></a><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Learn More </span></a></div>
+                            <div class="btn-box"></a><a href="invest.php" class="theme-btn btn-style-two"><span class="btn-title">GET STARTED </span></a></div>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,147 @@
             </div>
         </section>
         <!--End Banner Section -->
-
+        <div class="sidebar-page-container">
+        <div class="auto-container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <!-- News Block Two -->
+                    <div class="news-block-two">
+                        <div class="inner-box">
+                            <div class="image"><a href="#"><img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/resource/news-4.jpg" alt=""></a></div>
+                            <div class="lower-content">
+                                <div class="category">Business</div>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                                <h2><a href="blog-details.html">Lorem ipsum dolor sit amet, consecte <br>cing elit, sed do eiusmod tempor.</a></h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
+                                <div class="wrapper">
+                                    <div class="author-box">
+                                        <div class="thumb"><img src="assets/images/resource/thumb-4.jpg" alt=""></div>
+                                        <h5>by Hetmayar</h5>
+                                    </div>
+                                    <div class="read-more"><a href="blog-details.html"><i class="fal fa-arrow-right"></i>Read More</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- News Block Two -->
+                    <div class="news-block-two">
+                        <div class="inner-box">
+                            <div class="image"><a href="#"><img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/resource/news-5.jpg" alt=""></a></div>
+                            <div class="lower-content">
+                                <div class="category">Business</div>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                                <h2><a href="blog-details.html">Adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore.</a></h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
+                                <div class="wrapper">
+                                    <div class="author-box">
+                                        <div class="thumb"><img src="assets/images/resource/thumb-5.jpg" alt=""></div>
+                                        <h5>by Hetmayar</h5>
+                                    </div>
+                                    <div class="read-more"><a href="blog-details.html"><i class="fal fa-arrow-right"></i>Read More</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- News Block Two -->
+                    <div class="news-block-two">
+                        <div class="inner-box">
+                            <div class="image"><a href="#"><img class="lazy-image owl-lazy" src="assets/images/resource/image-spacer-for-validation.png" data-src="assets/images/resource/news-6.jpg" alt=""></a></div>
+                            <div class="lower-content">
+                                <div class="category">Business</div>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                                <h2><a href="blog-details.html">Magna aliqua. Ut enim ad minim venia <br>m, quis nostrud exercitation ullamco</a></h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
+                                <div class="wrapper">
+                                    <div class="author-box">
+                                        <div class="thumb"><img src="assets/images/resource/thumb-6.jpg" alt=""></div>
+                                        <h5>by Hetmayar</h5>
+                                    </div>
+                                    <div class="read-more"><a href="blog-details.html"><i class="fal fa-arrow-right"></i>Read More</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- News Block Two -->
+                    <div class="news-block-two">
+                        <div class="inner-box">
+                            <div class="lower-content">
+                                <div class="category">Business</div>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                                <h2><a href="blog-details.html">Laboris nisi ut aliquip ex ea commodo <br>consequat. Duis aute irure dolor.</a></h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
+                                <div class="wrapper">
+                                    <div class="author-box">
+                                        <div class="thumb"><img src="assets/images/resource/thumb-7.jpg" alt=""></div>
+                                        <h5>by Hetmayar</h5>
+                                    </div>
+                                    <div class="read-more"><a href="blog-details.html"><i class="fal fa-arrow-right"></i>Read More</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- News Block Three -->
+                    <div class="news-block-three">
+                        <div class="inner-box" style="background-image: url(assets/images/background/image-17.jpg);">
+                            <div class="lower-content">
+                                <div class="quote"><span class="fa fa-quote-left"></span></div>
+                                <h2><a href="blog-details.html">Excepteur sint occaecat cupida <br>tat non proident, sunt in.</a></h2>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- News Block Four -->
+                    <div class="news-block-four">
+                        <div class="inner-box" style="background-image: url(assets/images/background/image-16.jpg);">
+                            <div class="lower-content">
+                                <div class="category">Business</div>
+                                <h2><a href="blog-details.html">Culpa qui officia deserunt mollit anim <br>id est laborum. Sed ut perspiciatis</a></h2>
+                                <ul class="post-meta">
+                                    <li><a href="#"><i class="far fa-eye"></i>332 Views</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i>35 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-calendar-alt"></i>26th March 2020</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="page-pagination">
+                        <ul class="clearfix">
+                            <li><a href="#"><span class="fas fa-angle-double-left"></span></a></li>
+                            <li><a href="#">1</a></li>
+                            <li class="active"><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">...</a></li>
+                            <li><a href="#">10</a></li>
+                            <li><a href="#"><span class="fas fa-angle-double-right"></span></a></li>
+                        </ul> 
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- About Section Two -->
         <section class="about-section-three">
             <div class="auto-container">
@@ -349,40 +489,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="contact-form-area">
-                    <div class="sec-title text-center">
-                        <div class="sub-title">Write Here</div>
-                        <h2>Get In Touch</h2>
-                    </div>
-                    <!-- Contact Form-->
-                    <div class="contact-form">
-                        <form method="post" action="http://azim.commonsupport.com/Finandox/sendemail.php" id="contact-form">
-                            <div class="row clearfix">
-                                <div class="col-md-6 form-group">
-                                    <label for="name">Enter your name</label>
-                                    <input type="text" name="username" id="name" placeholder="Enter name here......" required="">
-                                    <i class="fas fa-user"></i>
-                                </div>
-
-                                <div class="col-md-6 form-group">
-                                    <label for="email">Enter your email</label>
-                                    <input type="email" name="email" id="email" placeholder="Enter email here......" required="">
-                                    <i class="fas fa-envelope"></i>
-                                </div>
-
-                                <div class="col-md-12 form-group">
-                                    <label for="message">Enter your message</label>
-                                    <textarea name="message" id="message" placeholder="Enter message here......"></textarea>
-                                    <i class="fas fa-edit"></i>
-                                </div>
-
-                                <div class="col-md-12 form-group">
-                                    <button class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Get In Touch</span></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                
             </div>
         </section>
 
